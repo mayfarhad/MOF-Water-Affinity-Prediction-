@@ -1,0 +1,87 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_CAU-6
+_audit_block_doi                 10.5517/ccdc.csd.cc26kbdj
+_database_code_depnum_ccdc_archive 'CCDC 2042447'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1039/c2cc34909d 2012
+_audit_update_record             
+;
+2020-11-04 deposited with the CCDC.	2021-12-15 downloaded from the CCDC.
+;
+
+_symmetry_space_group_name_H-M   P63/MMC
+_symmetry_Int_Tables_number      194
+_symmetry_cell_setting           hexagonal
+
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x-y,z
+-x+y,-x,z
+-x,-y,z+1/2
+y,-x+y,z+1/2
+x-y,x,z+1/2
+y,x,-z
+x-y,-y,-z
+-x,-x+y,-z
+-y,-x,-z+1/2
+-x+y,y,-z+1/2
+x,x-y,-z+1/2
+-x,-y,-z
+y,-x+y,-z
+x-y,x,-z
+x,y,-z+1/2
+-y,x-y,-z+1/2
+-x+y,-x,-z+1/2
+-y,-x,z
+-x+y,y,z
+x,x-y,z
+y,x,z+1/2
+x-y,-y,z+1/2
+-x,-x+y,z+1/2
+_cell_length_a                   19.2275
+_cell_length_b                   19.2275
+_cell_length_c                   14.0741
+_cell_angle_alpha                90.0000
+_cell_angle_beta                 90.0000
+_cell_angle_gamma                120.0000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+Al1 Al 0.15864 0.15864 0.00000 0.02533 Uiso 1.00
+Al2 Al 0.30662 0.15331 0.12799 0.02533 Uiso 1.00
+Al3 Al 0.00000 0.00000 0.00000 0.02533 Uiso 1.00
+O1 O 0.09506 0.04753 0.05707 0.02533 Uiso 1.00
+O2 O 0.35854 0.17927 0.00510 0.02533 Uiso 1.00
+O3 O 0.09789 0.19578 0.06295 0.02533 Uiso 1.00
+O4 O 0.24522 0.12261 0.25000 0.02533 Uiso 1.00
+O5 O 0.24672 0.19169 0.08346 0.02533 Uiso 1.00
+O6 O 0.37641 0.11062 0.18232 0.02533 Uiso 1.00
+C1 C 0.49691 0.06648 0.16360 0.02533 Uiso 1.00
+C2 C 0.40052 0.09594 0.25000 0.02533 Uiso 1.00
+C3 C 0.46280 0.07214 0.25000 0.02533 Uiso 1.00
+N1 N 0.46119 0.06657 0.07467 0.02533 Uiso 0.25

@@ -1,0 +1,191 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_Al-14ndc
+_audit_block_doi                 10.5517/ccrtt7l
+_database_code_depnum_ccdc_archive 'CCDC 710000'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1021/ja802589u 2008
+_audit_update_record             
+;
+2008-11-18 deposited with the CCDC.	2021-12-14 downloaded from the CCDC.
+;
+
+#======================================================================
+
+_audit_creation_date             2008-02-19
+_audit_creation_method           ?
+
+#======================================================================
+
+
+# CHEMICAL DATA
+
+_chemical_name_common            ?
+_chemical_formula_moiety         'C12 H6 Al1 O8'
+_chemical_formula_structural     ?
+_chemical_formula_analytical     ?
+_chemical_formula_iupac          ?
+_chemical_formula_sum            'C12 H6 Al1 O8'
+_chemical_formula_weight         305.15
+_chemical_melting_point          ?
+_chemical_compound_source        ?
+
+#======================================================================
+
+# POWDER SPECIMEN AND CRYSTAL DATA
+
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_H-M   'P 4/n m m'
+_symmetry_Int_Tables_number      129
+
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -y+1/2,x+1/2,z
+4 y+1/2,-x+1/2,z
+5 -x+1/2,y+1/2,-z
+6 x+1/2,-y+1/2,-z
+7 y,x,-z
+8 -y,-x,-z
+9 -x+1/2,-y+1/2,-z
+10 x+1/2,y+1/2,-z
+11 y,-x,-z
+12 -y,x,-z
+13 x,-y,z
+14 -x,y,z
+15 -y+1/2,-x+1/2,z
+16 y+1/2,x+1/2,z
+
+_cell_length_a                   21.1012(7)
+_cell_length_b                   21.1012(7)
+_cell_length_c                   6.6095(4)
+_cell_angle_alpha                90.0
+_cell_angle_beta                 90.0
+_cell_angle_gamma                90.0
+_cell_volume                     2942.9(2)
+_cell_formula_units_Z            8
+_cell_measurement_temperature    220
+
+_exptl_crystal_density_diffrn    ?
+_exptl_crystal_density_meas      ?
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_F_000             ?
+
+# The next four fields are normally only needed for transmission experiments.
+_exptl_absorpt_coefficient_mu    ?
+_exptl_absorpt_correction_type   ?
+_exptl_absorpt_correction_T_min  ?
+_exptl_absorpt_correction_T_max  ?
+
+#===========================================================================
+#==
+
+# EXPERIMENTAL DATA
+
+_exptl_crystal_colour            colorless
+
+_diffrn_ambient_temperature      220
+_diffrn_source                   synchrotron
+_diffrn_source_target            ?
+_diffrn_source_type              ?
+_diffrn_measurement_device_type  Debye-Scherrer
+_diffrn_detector                 'imaging plate'
+_diffrn_detector_type            ?
+_pd_meas_scan_method             step
+
+_diffrn_radiation_type           synchrotron
+_diffrn_radiation_wavelength     0.80070
+_diffrn_radiation_monochromator  Si
+
+_pd_meas_number_of_points        2751
+_pd_meas_2theta_range_min        2.500
+_pd_meas_2theta_range_max        30.000
+_pd_meas_2theta_range_inc        0.010
+
+#===========================================================================
+#==
+
+# REFINEMENT DATA
+
+_pd_calc_method                  'Rietveld Refinement'
+
+# The next three items are given as text
+_pd_proc_ls_profile_function     split-PearsonVII
+_pd_proc_ls_background_function  
+;
+at first background curve was provided by ;
+the combination of split-PearsonVII function, and the parameters of the ;
+function were refined to fit to the experimental data.
+;
+_pd_proc_ls_pref_orient_corr     none
+
+_pd_proc_ls_prof_R_factor        0.036
+_pd_proc_ls_prof_wR_factor       0.065
+_pd_proc_ls_prof_wR_expected     0.029
+
+_refine_ls_structure_factor_coef Inet
+_refine_ls_matrix_type           ?
+_refine_ls_weighting_scheme      ?
+_refine_ls_hydrogen_treatment    noref
+_refine_ls_extinction_method     none
+_refine_ls_extinction_coef       ?
+_refine_ls_number_parameters     68
+_refine_ls_number_constraints    16
+_refine_ls_R_I_factor            ?
+_refine_ls_goodness_of_fit_all   2.23
+
+_pd_proc_2theta_range_min        2.500
+_pd_proc_2theta_range_max        30.000
+_pd_proc_2theta_range_inc        ?
+
+#===========================================================================
+#==
+
+# ATOMIC COORDINATES AND DISPLACEMENT PARAMETERS
+
+loop_
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_occupancy
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_thermal_displace_type
+_atom_site_U_iso_or_equiv
+_atom_site_type_symbol
+Al1 4 1.0 0.25 0.25 0.0 Biso 1.0 Al3+
+Al2 4 1.0 0.25 0.25 0.5 Biso 1.0 Al3+
+O3 8 1.0 0.219(1) 0.281(1) 0.285(8) Biso 4.5(6) O
+C4 16 1.0 0.253(3) 0.139(3) 0.27(1) Biso 4.5(6) C
+O5 16 1.0 0.248(2) 0.171(2) 0.117(6) Biso 4.5(6) O
+O6 16 1.0 0.251(2) 0.165(2) 0.447(5) Biso 4.5(6) O
+C7 16 1.0 0.257(3) 0.068(3) 0.26(1) Biso 4.5(6) C
+C8 16 1.0 0.289(2) 0.034(2) 0.097(8) Biso 4.5(6) C
+C9 16 1.0 0.230(3) 0.034(3) 0.41(1) Biso 4.5(6) C
+C10 16 1.0 0.322(2) 0.068(3) -0.061(9) Biso 4.5(6) C
+C11 16 1.0 0.350(2) 0.034(2) -0.228(9) Biso 4.5(6) C
+O12 16 1.0 0.386(2) 0.546(2) 0.145(6) Biso 11.3(1) O
+O15 16 0.5 0.440(4) 0.600(4) 0.66(1) Biso 10.58(7) O
+H16 16 1.0 0.21(2) 0.06(3) 0.53(6) Biso 5.976 H
+H17 16 1.0 0.322(2) 0.12(2) -0.061(9) Biso 5.976 H
+H18 16 1.0 0.37(2) 0.06(1) -0.35(6) Biso 5.976 H
+
+#--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof

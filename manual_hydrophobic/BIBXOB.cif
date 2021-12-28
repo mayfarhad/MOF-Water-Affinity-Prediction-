@@ -1,0 +1,498 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_Compound_[Ni8(L5)6]
+_audit_block_doi                 10.5517/cc1086j0
+_database_code_depnum_ccdc_archive 'CCDC 931411'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1002/ange.201303484 2013
+2 10.1002/anie.201303484 2013
+_audit_update_record             
+;
+2013-03-27 deposited with the CCDC.	2021-12-15 downloaded from the CCDC.
+;
+#TrackingRef 'Nature_Chem_NiL5.cif'
+
+
+_chemical_name_systematic        
+;
+?
+;
+_chemical_name_common            ?
+_chemical_formula_moiety         'C111 H185 Ni8 N29 O58'
+_chemical_formula_structural     'Ni8 (OH)4 (H2O)4 (C16N4H8)6 (H2O)45 (C3H7NO)5'
+_chemical_formula_analytical     ?
+_chemical_formula_iupac          ?
+_chemical_formula_sum            'C111 H185 Ni8 N29 O58'
+_chemical_formula_weight         3323.40
+_chemical_melting_point          ?
+_chemical_compound_source        ?
+
+loop_
+_atom_type_symbol
+_atom_type_description
+# _atom_type_scat_dispersion_real
+# _atom_type_scat_dispersion_imag
+_atom_type_scat_source
+
+C C 'International Tables for Crystallography (Vol. IV)'
+H H 'International Tables for Crystallography (Vol. IV)'
+Ni Ni 'International Tables for Crystallography (Vol. IV)'
+N N 'International Tables for Crystallography (Vol. IV)'
+O O 'International Tables for Crystallography (Vol. IV)'
+
+#==============================================================================
+
+_space_group_crystal_system      cubic
+_space_group_name_H-M_alt        Fm-3m
+_space_group_name_Hall           ?
+
+loop_
+_symmetry_equiv_pos_as_xyz
+'-x, -y, -z'
+'-x, -y, z'
+'-x, -y+1/2, -z+1/2'
+'-x, -y+1/2, z+1/2'
+'-x, -z, -y'
+'-x, -z, y'
+'-x, -z+1/2, -y+1/2'
+'-x, -z+1/2, y+1/2'
+'-x, z, -y'
+'-x, z, y'
+'-x, z+1/2, -y+1/2'
+'-x, z+1/2, y+1/2'
+'-x, y, -z'
+'-x, y, z'
+'-x, y+1/2, -z+1/2'
+'-x, y+1/2, z+1/2'
+'-x+1/2, -y, -z+1/2'
+'-x+1/2, -y, z+1/2'
+'-x+1/2, -y+1/2, -z'
+'-x+1/2, -y+1/2, z'
+'-x+1/2, -z, -y+1/2'
+'-x+1/2, -z, y+1/2'
+'-x+1/2, -z+1/2, -y'
+'-x+1/2, -z+1/2, y'
+'-x+1/2, z, -y+1/2'
+'-x+1/2, z, y+1/2'
+'-x+1/2, z+1/2, -y'
+'-x+1/2, z+1/2, y'
+'-x+1/2, y, -z+1/2'
+'-x+1/2, y, z+1/2'
+'-x+1/2, y+1/2, -z'
+'-x+1/2, y+1/2, z'
+'-y, -x, -z'
+'-y, -x, z'
+'-y, -x+1/2, -z+1/2'
+'-y, -x+1/2, z+1/2'
+'-y, -z, -x'
+'-y, -z, x'
+'-y, -z+1/2, -x+1/2'
+'-y, -z+1/2, x+1/2'
+'-y, z, -x'
+'-y, z, x'
+'-y, z+1/2, -x+1/2'
+'-y, z+1/2, x+1/2'
+'-y, x, -z'
+'-y, x, z'
+'-y, x+1/2, -z+1/2'
+'-y, x+1/2, z+1/2'
+'-y+1/2, -x, -z+1/2'
+'-y+1/2, -x, z+1/2'
+'-y+1/2, -x+1/2, -z'
+'-y+1/2, -x+1/2, z'
+'-y+1/2, -z, -x+1/2'
+'-y+1/2, -z, x+1/2'
+'-y+1/2, -z+1/2, -x'
+'-y+1/2, -z+1/2, x'
+'-y+1/2, z, -x+1/2'
+'-y+1/2, z, x+1/2'
+'-y+1/2, z+1/2, -x'
+'-y+1/2, z+1/2, x'
+'-y+1/2, x, -z+1/2'
+'-y+1/2, x, z+1/2'
+'-y+1/2, x+1/2, -z'
+'-y+1/2, x+1/2, z'
+'-z, -x, -y'
+'-z, -x, y'
+'-z, -x+1/2, -y+1/2'
+'-z, -x+1/2, y+1/2'
+'-z, -y, -x'
+'-z, -y, x'
+'-z, -y+1/2, -x+1/2'
+'-z, -y+1/2, x+1/2'
+'-z, y, -x'
+'-z, y, x'
+'-z, y+1/2, -x+1/2'
+'-z, y+1/2, x+1/2'
+'-z, x, -y'
+'-z, x, y'
+'-z, x+1/2, -y+1/2'
+'-z, x+1/2, y+1/2'
+'-z+1/2, -x, -y+1/2'
+'-z+1/2, -x, y+1/2'
+'-z+1/2, -x+1/2, -y'
+'-z+1/2, -x+1/2, y'
+'-z+1/2, -y, -x+1/2'
+'-z+1/2, -y, x+1/2'
+'-z+1/2, -y+1/2, -x'
+'-z+1/2, -y+1/2, x'
+'-z+1/2, y, -x+1/2'
+'-z+1/2, y, x+1/2'
+'-z+1/2, y+1/2, -x'
+'-z+1/2, y+1/2, x'
+'-z+1/2, x, -y+1/2'
+'-z+1/2, x, y+1/2'
+'-z+1/2, x+1/2, -y'
+'-z+1/2, x+1/2, y'
+'z, -x, -y'
+'z, -x, y'
+'z, -x+1/2, -y+1/2'
+'z, -x+1/2, y+1/2'
+'z, -y, -x'
+'z, -y, x'
+'z, -y+1/2, -x+1/2'
+'z, -y+1/2, x+1/2'
+'z, y, -x'
+'z, y, x'
+'z, y+1/2, -x+1/2'
+'z, y+1/2, x+1/2'
+'z, x, -y'
+'z, x, y'
+'z, x+1/2, -y+1/2'
+'z, x+1/2, y+1/2'
+'z+1/2, -x, -y+1/2'
+'z+1/2, -x, y+1/2'
+'z+1/2, -x+1/2, -y'
+'z+1/2, -x+1/2, y'
+'z+1/2, -y, -x+1/2'
+'z+1/2, -y, x+1/2'
+'z+1/2, -y+1/2, -x'
+'z+1/2, -y+1/2, x'
+'z+1/2, y, -x+1/2'
+'z+1/2, y, x+1/2'
+'z+1/2, y+1/2, -x'
+'z+1/2, y+1/2, x'
+'z+1/2, x, -y+1/2'
+'z+1/2, x, y+1/2'
+'z+1/2, x+1/2, -y'
+'z+1/2, x+1/2, y'
+'y, -x, -z'
+'y, -x, z'
+'y, -x+1/2, -z+1/2'
+'y, -x+1/2, z+1/2'
+'y, -z, -x'
+'y, -z, x'
+'y, -z+1/2, -x+1/2'
+'y, -z+1/2, x+1/2'
+'y, z, -x'
+'y, z, x'
+'y, z+1/2, -x+1/2'
+'y, z+1/2, x+1/2'
+'y, x, -z'
+'y, x, z'
+'y, x+1/2, -z+1/2'
+'y, x+1/2, z+1/2'
+'y+1/2, -x, -z+1/2'
+'y+1/2, -x, z+1/2'
+'y+1/2, -x+1/2, -z'
+'y+1/2, -x+1/2, z'
+'y+1/2, -z, -x+1/2'
+'y+1/2, -z, x+1/2'
+'y+1/2, -z+1/2, -x'
+'y+1/2, -z+1/2, x'
+'y+1/2, z, -x+1/2'
+'y+1/2, z, x+1/2'
+'y+1/2, z+1/2, -x'
+'y+1/2, z+1/2, x'
+'y+1/2, x, -z+1/2'
+'y+1/2, x, z+1/2'
+'y+1/2, x+1/2, -z'
+'y+1/2, x+1/2, z'
+'x, -y, -z'
+'x, -y, z'
+'x, -y+1/2, -z+1/2'
+'x, -y+1/2, z+1/2'
+'x, -z, -y'
+'x, -z, y'
+'x, -z+1/2, -y+1/2'
+'x, -z+1/2, y+1/2'
+'x, z, -y'
+'x, z, y'
+'x, z+1/2, -y+1/2'
+'x, z+1/2, y+1/2'
+'x, y, -z'
+'x, y, z'
+'x, y+1/2, -z+1/2'
+'x, y+1/2, z+1/2'
+'x+1/2, -y, -z+1/2'
+'x+1/2, -y, z+1/2'
+'x+1/2, -y+1/2, -z'
+'x+1/2, -y+1/2, z'
+'x+1/2, -z, -y+1/2'
+'x+1/2, -z, y+1/2'
+'x+1/2, -z+1/2, -y'
+'x+1/2, -z+1/2, y'
+'x+1/2, z, -y+1/2'
+'x+1/2, z, y+1/2'
+'x+1/2, z+1/2, -y'
+'x+1/2, z+1/2, y'
+'x+1/2, y, -z+1/2'
+'x+1/2, y, z+1/2'
+'x+1/2, y+1/2, -z'
+'x+1/2, y+1/2, z'
+
+_cell_length_a                   32.4617(19)
+_cell_length_b                   32.4617(19)
+_cell_length_c                   32.4617(19)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     34206.8(61)
+_cell_formula_units_Z            4
+_cell_measurement_temperature    298
+
+_pd_calibration_special_details  
+; ?
+;
+_cell_special_details            
+; ?
+;
+
+_exptl_crystal_density_diffrn    0.64
+_exptl_crystal_density_meas      ?
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_F_000             6968
+
+# The next three fields give the specimen dimensions in mm. The equatorial
+# plane contains the incident and diffracted beam.
+_pd_spec_size_axial              20 # perpendicular to
+# equatorial plane
+
+_pd_spec_size_equat              20 # parallel to
+# scattering vector
+# in transmission
+
+_pd_spec_size_thick              0.2 # parallel to
+# scattering vector
+# in reflection
+
+# The next five fields are character fields that describe the specimen.
+
+_pd_spec_mounting                
+; packed powder pellet
+;
+_pd_spec_mount_mode              reflection # options are 'reflection'
+# or 'transmission'
+
+_pd_spec_shape                   flat_sheet # options are 'cylinder',
+# 'flat_sheet' or 'irregular'
+
+_pd_char_particle_morphology     ?
+
+_pd_char_colour                  'pale green' # use ICDD colour descriptions
+
+
+
+# The next four fields are normally only needed for transmission experiments.
+_exptl_absorpt_coefficient_mu    ?
+_exptl_absorpt_correction_type   ?
+_exptl_absorpt_correction_T_min  ?
+_exptl_absorpt_correction_T_max  ?
+
+#==============================================================================
+
+_exptl_special_details           
+; ?
+;
+
+# This following item is used to identify the equipment used to record the
+# powder pattern when the diffractogram was measured at a laboratory
+# other than the authors' home institution, e.g. when neutron or synchrotron
+# radiation is used.
+
+_pd_instr_location               
+; ?
+;
+
+_diffrn_ambient_temperature      298
+_diffrn_source_target            Cu
+_diffrn_source_type              'sealed X-ray tube'
+_diffrn_measurement_device_type  'Bruker AXS D8 Advance'
+_diffrn_detector_type            'Bruker AXS Lynxeye PSD'
+_pd_meas_scan_method             step # options are 'step', 'cont',
+# 'tof', 'fixed' or
+# 'disp' (= dispersive)
+_pd_meas_special_details         
+; ?
+;
+
+# The following six items are used for angular dispersive measurements only.
+
+loop_
+_diffrn_radiation_type
+'Cu K\a'
+_diffrn_radiation_wavelength     CuK\a~1~
+_diffrn_radiation_monochromator  'Ni filter'
+
+# The following four items give details of the measured (not processed)
+# powder pattern. Angles are in degrees.
+
+_pd_meas_number_of_points        5101
+_pd_meas_2theta_range_min        3
+_pd_meas_2theta_range_max        105
+_pd_meas_2theta_range_inc        0.02
+
+# The following three items are used for time-of-flight measurements only.
+
+_pd_instr_dist_src/spec          ?
+_pd_instr_dist_spec/detc         ?
+_pd_meas_2theta_fixed            ?
+
+# The following fields are used to identify the programs used.
+
+_computing_data_collection       'Bruker AXS D8 Commander'
+_computing_cell_refinement       TOPAS-R
+_computing_data_reduction        ?
+_computing_structure_solution    TOPAS-R
+_computing_structure_refinement  TOPAS-R
+_computing_molecular_graphics    ?
+_computing_publication_material  TOPAS-R
+
+#==============================================================================
+
+# Use the next field to give any special details about the fitting of the
+# powder pattern.
+
+_pd_proc_ls_special_details      
+;
+The use of a rigid body description for the crystallographically independent
+portion of the organic ligand does not allow the derivation of statistically
+meaningful s.u.'s for its atoms. Adopting the z-matirx formalism, the ligand
+was described as
+
+z_matrix Du
+z_matrix C1 Du =r1;
+z_matrix C2 C1 =r1; Du 60
+z_matrix H2 C2 =r4; C1 120 Du 180
+z_matrix C3 C1 =r2; C2 120 Du 180
+z_matrix C4 C3 =r5; C1 180 C2 180
+z_matrix C5 C4 =r2; C3 180 C1 180
+z_matrix C6 C5 =r3; C4 126 H2 0
+z_matrix H6 C6 =r4; C5 126 C4 0
+z_matrix N1 C6 =r3; C5 108 C4 180
+
+Du = centre of mass
+r1 = 1.39
+r2 = 1.50
+r3 = 1.36
+r4 = 0.95
+r5 = 1.24
+
+The centre of mass is located at [0.25, 0.25, 0],
+and the whole ligand is rotated by (0, 0, 45) with respect
+to the unit cell exes a, b, and c, respectively.
+
+The difference Fourier map calculated with the structure
+factors of the framework alone revealed that the solvent
+is highly disordered. Its electronic density was modelled
+by locating, within the cavities, the number of oxygen atoms
+whose refined site occupation factors, combined with the site
+multiplicity, represent the total electron density of the solvent,
+as estimated from the elemental and TG analyses.
+
+;
+
+# The next three items are given as text
+_pd_proc_ls_profile_function     'fundamental parameters approach'
+_pd_proc_ls_background_function  'Chebychev polynomial'
+_pd_proc_ls_pref_orient_corr     ?
+_pd_proc_ls_prof_R_factor        0.024
+_pd_proc_ls_prof_wR_factor       0.035
+_pd_proc_ls_prof_wR_expected     0.003
+
+_refine_special_details          
+; ?
+;
+
+_refine_ls_structure_factor_coef Inet
+_refine_ls_matrix_type           fullcycle
+_refine_ls_weighting_scheme      1/[Y~i~]
+_refine_ls_hydrogen_treatment    ?
+_refine_ls_extinction_method     none
+_refine_ls_extinction_coef       ?
+_refine_ls_number_parameters     35
+_refine_ls_number_restraints     0
+_refine_ls_number_constraints    ?
+# The following item is 'CHI squared'
+_refine_ls_goodness_of_fit_all   ?
+
+_refine_ls_restrained_S_all      ?
+_refine_ls_restrained_S_obs      ?
+_refine_ls_shift/su_max          .01
+_refine_ls_shift/su_mean         ?
+
+
+# The following four items apply to angular dispersive measurements.
+# 2theta minimum, maximum and increment (in degrees) are for the
+# intensities used in the refinement.
+_pd_proc_2theta_range_min        4
+_pd_proc_2theta_range_max        95
+_pd_proc_2theta_range_inc        0.02
+
+loop_
+_pd_proc_wavelength
+1.540562
+1.544390
+
+_pd_block_diffractogram_id       ? # The id used for the block
+# containing the powder
+# pattern profile (section 11).
+
+# Give appropriate details in the next two text fields.
+_pd_proc_info_excluded_regions   ?
+_pd_proc_info_data_reduction     ?
+
+#==============================================================================
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+Ni Ni 32 0.04240(19) 0.04240(19) 0.04240(19) 1 2.09(31)
+O O 24 0.06415923 0 0 1 2.09(31)
+H H 24 0.09342453 0 0 1 2.09(31)
+C1 C 48 0.2802781 0.2802781 0 1 4.09(31)
+C2 C 96 0.2651391 0.2651391 -0.03708299 1 4.09(31)
+H2 H 96 0.2754859 0.2754859 -0.06242749 1 4.09(31)
+C3 C 48 0.3129524 0.3129524 0 1 4.09(31)
+C4 C 48 0.3399631 0.3399631 0 1 4.09(31)
+C5 C 48 0.3726374 0.3726374 0 1 4.09(31)
+C6 C 96 0.3900503 0.3900503 -0.03389424 1 4.09(31)
+H6 H 96 0.3836556 0.3836556 -0.06172719 1 4.09(31)
+N1 N 96 0.418225 0.418225 -0.02094779 1 4.09(31)
+O2 O 4 0.5 0 0 0.431(63) 70.0(25)
+O3 O 8 0.25 0.25 0.25 0.519(46) 70.0(25)
+O4 O 24 0 -0.17443(64) 0 4.145(60) 70.0(25)
+O5 O 192 -0.6608(16) -0.5646(83) 0.5707(88) 0.2666(63) 70.0(25)
+_iucr_compatibility_tag          ?

@@ -1,0 +1,266 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_GCH289CBAAHYDROFX_phase_1
+_audit_block_doi                 10.5517/cczmnt1
+_database_code_depnum_ccdc_archive 'CCDC 912634'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1021/jp312179e 2013
+_audit_update_record             
+;
+2012-11-26 deposited with the CCDC.	2021-12-15 downloaded from the CCDC.
+;
+#TrackingRef '15677_web_deposit_cif_file_0_Jean-LouisPaillaud_1353941314.IM-19_H2O_JPCC.cif'
+
+
+_pd_block_id                     
+2012-11-23T09:59|GCH289CBAAHYDROFX_phase1|Paillaud||
+
+#==============================================================================
+# 7. CHEMICAL, STRUCTURAL AND CRYSTAL DATA
+
+_pd_char_particle_morphology     ?
+
+_chemical_name_systematic        
+; ?
+;
+_chemical_name_common            ?
+_chemical_formula_moiety         ?
+_chemical_formula_structural     ?
+_chemical_formula_analytical     ?
+_chemical_melting_point          ?
+_chemical_compound_source        ? # for minerals and
+# natural products
+_symmetry_space_group_name_Hall  ?
+
+_exptl_crystal_F_000             ?
+_exptl_crystal_density_diffrn    ?
+_exptl_crystal_density_meas      ?
+_exptl_crystal_density_method    ?
+
+_cell_measurement_temperature    ?
+
+_cell_special_details            
+; ?
+;
+
+_geom_special_details            ?
+
+# The following item identifies the program(s) used (if appropriate).
+_computing_structure_solution    ?
+
+#==============================================================================
+
+# 8. Phase information from GSAS
+
+_pd_phase_name                   'IM-19 hydrated'
+_cell_length_a                   19.65970(19)
+_cell_length_b                   7.64440(7)
+_cell_length_c                   6.67160(7)
+_cell_angle_alpha                90.0
+_cell_angle_beta                 103.8831(8)
+_cell_angle_gamma                90.0
+_cell_volume                     973.324(20)
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'C 1 c 1'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 +x,+y,+z
+2 +x,-y,+z+1/2
+101 +x+1/2,+y+1/2,+z
+102 +x+1/2,-y+1/2,+z+1/2
+
+# ATOMIC COORDINATES AND DISPLACEMENT PARAMETERS
+
+
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_thermal_displace_type
+_atom_site_U_iso_or_equiv
+_atom_site_symmetry_multiplicity
+Ga GA1 0.3880(5) 0.4998(8) 0.5740(14) 1.0 Uiso 0.02816(33) 4
+O O2 0.4542(5) 0.3108(9) 0.5279(16) 1.0 Uiso 0.0212(5) 4
+O O4 0.4767(6) 0.3847(8) 0.2268(15) 1.0 Uiso 0.0212(5) 4
+C C1 0.4961(5) 0.3282(5) 0.4107(14) 1.0 Uiso 0.0212(5) 4
+C C7 0.5703(5) 0.2848(6) 0.5019(15) 1.0 Uiso 0.0212(5) 4
+C C6 0.6182(5) 0.3033(6) 0.3829(15) 1.0 Uiso 0.0212(5) 4
+C C3 0.5897(5) 0.2335(6) 0.7064(15) 1.0 Uiso 0.0212(5) 4
+C C4 0.6886(5) 0.2684(6) 0.4699(15) 1.0 Uiso 0.0212(5) 4
+C C5 0.6602(5) 0.1981(6) 0.7928(16) 1.0 Uiso 0.0212(5) 4
+C C8 0.7080(5) 0.2169(6) 0.6739(15) 1.0 Uiso 0.0212(5) 4
+C C2 0.7817(5) 0.1727(5) 0.7710(14) 1.0 Uiso 0.0212(5) 4
+O O3 0.8248(5) 0.1791(8) 0.6577(16) 1.0 Uiso 0.0212(5) 4
+O O5 0.7982(6) 0.1283(9) 0.9590(15) 1.0 Uiso 0.0212(5) 4
+H H2 0.5527(8) 0.2226(10) 0.7957(26) 1.0 Uiso 0.0212(5) 4
+H H3 0.7257(8) 0.2790(10) 0.3811(26) 1.0 Uiso 0.0212(5) 4
+H H4 0.6765(11) 0.1580(8) 0.9465(17) 1.0 Uiso 0.0212(5) 4
+H H5 0.6019(11) 0.3437(8) 0.2293(17) 1.0 Uiso 0.0212(5) 4
+O O1 0.3934(9) 0.3919(4) 0.8274(17) 1.0 Uiso 0.0212(5) 4
+H H1 0.4064(21) 0.2676(16) 0.839(14) 1.0 Uiso 0.0212(5) 4
+O Ow1 0.8693(6) 0.4772(18) 0.3768(18) 0.830(4) Uiso 0.0734(35) 4
+H Hw1 0.9216(11) 0.493(16) 0.412(11) 0.830(4) Uiso 0.0734(35) 4
+H Hw2 0.8580(29) 0.498(15) 0.513(5) 0.830(4) Uiso 0.0734(35) 4
+
+loop_
+_atom_type_symbol
+_atom_type_number_in_cell
+Ga 4.0
+O 23.32
+C 32.0
+H 26.64
+
+# If you change Z, be sure to change all 3 of the following
+_chemical_formula_sum            'C8 H6.66 Ga O5.83'
+_chemical_formula_weight         265.80
+_cell_formula_units_Z            4
+
+# MOLECULAR GEOMETRY
+
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+GA1 O2 2.018(6) . 1_555 N
+GA1 O4 2.003(6) . 2_565 N
+GA1 O3 2.017(6) . 101_455 N
+GA1 O5 2.002(6) . 102_454 N
+GA1 O1 1.861(4) . 1_555 N
+GA1 O1 1.868(4) . 2_564 N
+GA1 H1 2.47(6) . 1_555 N
+GA1 H1 2.46(6) . 2_564 N
+O2 GA1 2.018(6) . 1_555 N
+O2 C1 1.271(4) . 1_555 N
+O4 GA1 2.003(6) . 2_564 N
+O4 C1 1.270(4) . 1_555 N
+C1 O2 1.271(4) . 1_555 N
+C1 O4 1.270(4) . 1_555 N
+C1 C7 1.477(4) . 1_555 N
+C7 C1 1.477(4) . 1_555 N
+C7 C6 1.378(4) . 1_555 N
+C7 C3 1.382(4) . 1_555 N
+C6 C7 1.378(4) . 1_555 N
+C6 C4 1.392(4) . 1_555 N
+C6 H5 1.045(5) . 1_555 N
+C3 C7 1.382(4) . 1_555 N
+C3 C5 1.3946(32) . 1_555 N
+C3 H2 1.048(5) . 1_555 N
+C4 C6 1.392(4) . 1_555 N
+C4 C8 1.380(4) . 1_555 N
+C4 H3 1.048(5) . 1_555 N
+C5 C3 1.3946(32) . 1_555 N
+C5 C8 1.374(5) . 1_555 N
+C5 H4 1.044(5) . 1_555 N
+C8 C4 1.380(4) . 1_555 N
+C8 C5 1.374(5) . 1_555 N
+C8 C2 1.478(4) . 1_555 N
+C2 C8 1.478(4) . 1_555 N
+C2 O3 1.264(4) . 1_555 N
+C2 O5 1.264(4) . 1_555 N
+O3 GA1 2.017(6) . 101_545 N
+O3 C2 1.264(4) . 1_555 N
+O5 GA1 2.002(6) . 102_555 N
+O5 C2 1.264(4) . 1_555 N
+H2 C3 1.048(5) . 1_555 N
+H3 C4 1.048(5) . 1_555 N
+H4 C5 1.044(5) . 1_555 N
+H5 C6 1.045(5) . 1_555 N
+O1 GA1 1.861(4) . 1_555 N
+O1 GA1 1.868(4) . 2_565 N
+O1 H1 0.982(5) . 1_555 N
+H1 GA1 2.47(6) . 1_555 N
+H1 GA1 2.46(6) . 2_565 N
+H1 O1 0.982(5) . 1_555 N
+H1 Ow1 2.047(15) . 102_455 N
+Ow1 H1 2.047(15) . 102_554 N
+Ow1 Hw1 1.006(9) . 1_555 N
+Ow1 Hw2 1.001(9) . 1_555 N
+Hw1 Ow1 1.006(9) . 1_555 N
+Hw1 Hw2 1.558(26) . 1_555 N
+Hw2 Ow1 1.001(9) . 1_555 N
+Hw2 Hw1 1.558(26) . 1_555 N
+
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_2
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+O2 GA1 O4 82.97(35) 1_555 . 2_565 N
+O2 GA1 O3 172.8(5) 1_555 . 101_455 N
+O2 GA1 O5 97.7(4) 1_555 . 102_454 N
+O2 GA1 O1 85.6(4) 1_555 . 1_555 N
+O2 GA1 O1 90.5(4) 1_555 . 2_564 N
+O4 GA1 O3 94.5(4) 2_565 . 101_455 N
+O4 GA1 O5 172.2(4) 2_565 . 102_454 N
+O4 GA1 O1 83.1(4) 2_565 . 1_555 N
+O4 GA1 O1 91.5(5) 2_565 . 2_564 N
+O3 GA1 O5 83.9(4) 101_455 . 102_454 N
+O3 GA1 O1 87.4(4) 101_455 . 1_555 N
+O3 GA1 O1 96.4(4) 101_455 . 2_564 N
+O5 GA1 O1 89.1(5) 102_454 . 1_555 N
+O5 GA1 O1 96.3(4) 102_454 . 2_564 N
+O1 GA1 O1 173.7(9) 1_555 . 2_564 N
+GA1 O2 C1 123.8(5) 1_555 . 1_555 N
+GA1 O4 C1 131.6(6) 2_564 . 1_555 N
+O2 C1 O4 122.8(7) 1_555 . 1_555 N
+O2 C1 C7 116.4(6) 1_555 . 1_555 N
+O4 C1 C7 120.8(6) 1_555 . 1_555 N
+C1 C7 C6 118.9(6) 1_555 . 1_555 N
+C1 C7 C3 118.8(6) 1_555 . 1_555 N
+C6 C7 C3 122.2(6) 1_555 . 1_555 N
+C7 C6 C4 119.3(6) 1_555 . 1_555 N
+C7 C6 H5 120.3(11) 1_555 . 1_555 N
+C4 C6 H5 120.4(12) 1_555 . 1_555 N
+C7 C3 C5 118.4(6) 1_555 . 1_555 N
+C7 C3 H2 121.2(10) 1_555 . 1_555 N
+C5 C3 H2 120.4(10) 1_555 . 1_555 N
+C6 C4 C8 118.5(6) 1_555 . 1_555 N
+C6 C4 H3 120.5(10) 1_555 . 1_555 N
+C8 C4 H3 121.0(10) 1_555 . 1_555 N
+C3 C5 C8 119.3(6) 1_555 . 1_555 N
+C3 C5 H4 120.2(11) 1_555 . 1_555 N
+C8 C5 H4 120.5(11) 1_555 . 1_555 N
+C4 C8 C5 122.3(6) 1_555 . 1_555 N
+C4 C8 C2 120.5(6) 1_555 . 1_555 N
+C5 C8 C2 117.2(6) 1_555 . 1_555 N
+C8 C2 O3 117.2(6) 1_555 . 1_555 N
+C8 C2 O5 119.1(6) 1_555 . 1_555 N
+O3 C2 O5 123.7(7) 1_555 . 1_555 N
+GA1 O3 C2 133.2(5) 101_545 . 1_555 N
+GA1 O5 C2 120.2(5) 102_555 . 1_555 N
+GA1 O1 GA1 126.92(19) 1_555 . 2_565 N
+GA1 O1 H1 117(5) 1_555 . 1_555 N
+GA1 O1 H1 116(5) 2_565 . 1_555 N
+Hw1 Ow1 Hw2 101.9(22) 1_555 . 1_555 N
+Ow1 Hw1 Hw2 38.9(11) 1_555 . 1_555 N
+Ow1 Hw2 Hw1 39.2(11) 1_555 . 1_555 N
+#--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--#
+
+
