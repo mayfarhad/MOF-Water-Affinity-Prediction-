@@ -3,7 +3,7 @@ The following Python scripts aim to use a Random Forest machine learning algorit
 
 **Prediction Model**
 
-The prediction model is used to determine whether a given MOF is hydrophobic or hydrophilic. It uses a Random Forest model from the XGBoost library. The model reads in a .csv file of training data and then predicts the water affinity of a user inputted MOF. The user can specify what input parameters are to be used in the model.
+The prediction model is used to determine whether a given MOF is hydrophobic or hydrophilic. It uses a Random Forest model from the XGBoost library through a scikit-learn interface. The model reads in a .csv file of training data and then predicts the water affinity of a user inputted MOF. The user can specify what input parameters are to be used in the model.
 
 **Overfitting/Underfitting**
 
