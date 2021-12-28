@@ -23,5 +23,8 @@ cif: these are hydrophobic MOFs received from Dr. Z. Qiao.
 manual hydrophobic: these are hydrophobic MOFs collected from the literature
 manual hydrophilic: these are hydrophilic MOFs collected from the literature
 
+_**To add additional .cif files:**_
+Add additional .cif files into either the manual hydrophobic folder or the manual hydrophilic folder. Make sure the file names represent the CCDC refcodes (including or excluding the CoRE_MOF 2019 name extensions). Finally, add these refcodes into the .txt file available in each folder so that the .cif files can be read by the cif Reader program. 
+
 
 This project is licensed under the terms of the GNU General Public License v3.0
