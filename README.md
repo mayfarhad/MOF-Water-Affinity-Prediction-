@@ -23,7 +23,7 @@ Three different folders are used to store CIF files.
 2. manual hydrophobic: these are hydrophobic MOFs collected from the literature
 3. manual hydrophilic: these are hydrophilic MOFs collected from the literature
 
-### _**To add additional .cif files:**_
+### _**To add additional CIF files:**_
 Add additional CIF files into either the manual hydrophobic folder or the manual hydrophilic folder. Make sure the file names represent the CCDC refcodes (including or excluding the CoREMOF 2019 name extensions). Finally, add these refcodes into the TXT file available in each folder so that the CIF files can be read by the CIF Reader program. 
 
 
